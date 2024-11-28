@@ -1,0 +1,33 @@
+body{
+    color:black;
+    background-color: lightcoral;
+    margin: 0px;
+
+}
+
+header{
+    /* border: 2px solid black; */
+
+    /* borda */
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    /* cor da letra alura flx */
+    color: black;
+}
+
+section{
+    display: flex;
+    background-color: darksalmon;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
+}
+
+.texto{
+    margin-right: 5%;
+}
+
+.titulo{
+    font-family: "Noto Serif Ahom", serif;
+}
